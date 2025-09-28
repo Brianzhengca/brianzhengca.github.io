@@ -10,7 +10,7 @@ positions:
 
 email: "zhengbr@cs.washington.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: KQemAJAAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -22,12 +22,10 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hey there! My name is Brian and I am a second-year Computer Science undergrad at the University of Washington, where I am fortunate to work on research with <a href="https://nasmith.github.io/">Prof. Noah Smith</a>. I am broadly interested in natural language/music processing.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    When not doing research, you can find me (with approximately uniform probability) cooking, playing badminton, or jogging along the Burke-Gilman trail. 
   </p>
 
 portrait_url: /assets/images/photos/IMG_3808_2.jpg
