@@ -3,9 +3,8 @@ secondary_name: ""
 navbar_name: "Brian Zheng"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/University_of_Washington_seal.svg.png  # Logo is optional
+  name: Undergraduate Student
 
 
 email: "zhengbr@cs.washington.edu"
@@ -47,9 +46,10 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+- name: University of Washington Undergraduate Conference Travel Award
+  date: 2025
 - name: ICPC Pacific Northwest Regionals
   date: 2024
 - name: Meta Hacker Cup Round 2 Qualifier
   date: 2024
-- name: University of Washington Undergraduate Conference Travel Award
-  date: 2025
+
