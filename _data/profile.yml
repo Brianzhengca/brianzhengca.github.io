@@ -21,7 +21,7 @@ twitter: s_zhengbr  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hey there! My name is Brian and I am a second-year Computer Science undergrad at the University of Washington, where I am fortunate to work on research with <a href="https://nasmith.github.io/">Prof. Noah Smith</a>. I am broadly interested in natural language/music processing.
+    Hey there! My name is Brian and I am a second-year Computer Science undergrad at the University of Washington, where I am fortunate to work on research with <a href="https://nasmith.github.io/">Prof. Noah Smith</a>. I am currently a Member of Technical Staff Intern at OpenAI, and this fall I will be visiting the University of California, Berkeley as a visiting student researcher to work on tokenizer research, advised by <a href="https://www.sewonmin.com/">Prof. Sewon Min</a>. I am broadly interested in natural language/music processing.
   </p>
   <p>
     I was originally from Vancouver, Canada, and have spent time in Toronto and Shanghai before settling down in Seattle. While not doing research, you can find me cooking, playing badminton, or jogging along the Burke-Gilman trail. 
@@ -53,3 +53,6 @@ awards:
 - name: Meta Hacker Cup Round 2 Qualifier
   date: 2024
 
+service:
+- name: Served as Reviewer for ICLR 2026
+- name: Served as Reviewer for NeurIPS 2026

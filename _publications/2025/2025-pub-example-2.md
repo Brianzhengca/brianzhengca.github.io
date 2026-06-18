@@ -19,6 +19,6 @@ authors:
   - Luiza Pozzobon
   - Noah A. Smith
 links:
-  # Code: https://github.com/Brianzhengca/Tokenizer-Robustness
+  Code: https://github.com/guang-yng/legato
   Paper: https://arxiv.org/abs/2506.19065
 ---
