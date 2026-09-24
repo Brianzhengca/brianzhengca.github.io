@@ -2,7 +2,7 @@
 title:          "LEGATO: Large-Scale End-To-End Generalizable Approach to Typeset OMR"
 date:           2026-4-23 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Learning Representations (ICLR) 2026"
+pub:            "International Conference on Learning Representations (ICLR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight (Top 3%)</span>'
