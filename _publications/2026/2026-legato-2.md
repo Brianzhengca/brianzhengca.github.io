@@ -2,7 +2,7 @@
 title:          "LEGATO 2: Toward Multimodal Sheet Music Recognition and Understanding"
 date:           2026-07-07 00:01:00 +0000
 selected:       true
-pub:            "arXiv preprint"
+pub:            "NeurIPS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_date:       "2026"
